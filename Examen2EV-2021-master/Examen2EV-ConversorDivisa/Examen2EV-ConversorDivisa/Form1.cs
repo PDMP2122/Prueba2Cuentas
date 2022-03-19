@@ -36,7 +36,7 @@ namespace Ejercicio10
             double euros, dolares;
 
             euros = double.Parse(tImporte.Text);
-            dolares = euros /CONV1;
+            dolares = euros /CONV1;                     // Se han cambiado la operación multiplicacion por la division
 
             tResultado.Text = dolares.ToString();
         }
@@ -46,7 +46,7 @@ namespace Ejercicio10
             double euros, libras;
 
             libras = double.Parse(tImporte.Text);
-            euros = libras * CONV2;
+            euros = libras * CONV2;                     // La constante de conversión no es correcta
 
             tResultado.Text = euros.ToString();
         }
@@ -55,10 +55,10 @@ namespace Ejercicio10
         {
             double euros, libras;
 
-            euros = double.Parse(tImporte.Text);
+            euros = double.Parse(tImporte.Text);            // el textbox no es el correcto
             libras = euros /CONV2;
 
-            tResultado.Text = libras.ToString();
+            tResultado.Text = libras.ToString();            // el textbox no es el correcto
         }
 
         private void Form1_Load(object sender, EventArgs e)
