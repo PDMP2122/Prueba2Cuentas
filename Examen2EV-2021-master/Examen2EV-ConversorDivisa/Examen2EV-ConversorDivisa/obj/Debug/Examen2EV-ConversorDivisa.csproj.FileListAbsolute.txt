@@ -1,0 +1,9 @@
+C:\Users\Madaria-Campos\Downloads\Examen2EV-2021-master\Examen2EV-2021-master\Examen2EV-ConversorDivisa\Examen2EV-ConversorDivisa\bin\Debug\Examen2EV-ConversorDivisa.exe
+C:\Users\Madaria-Campos\Downloads\Examen2EV-2021-master\Examen2EV-2021-master\Examen2EV-ConversorDivisa\Examen2EV-ConversorDivisa\bin\Debug\Examen2EV-ConversorDivisa.pdb
+C:\Users\Madaria-Campos\Downloads\Examen2EV-2021-master\Examen2EV-2021-master\Examen2EV-ConversorDivisa\Examen2EV-ConversorDivisa\obj\Debug\Examen2EV-ConversorDivisa.csproj.AssemblyReference.cache
+C:\Users\Madaria-Campos\Downloads\Examen2EV-2021-master\Examen2EV-2021-master\Examen2EV-ConversorDivisa\Examen2EV-ConversorDivisa\obj\Debug\Ejercicio10.Form1.resources
+C:\Users\Madaria-Campos\Downloads\Examen2EV-2021-master\Examen2EV-2021-master\Examen2EV-ConversorDivisa\Examen2EV-ConversorDivisa\obj\Debug\Examen2EV_ConversorDivisa.Properties.Resources.resources
+C:\Users\Madaria-Campos\Downloads\Examen2EV-2021-master\Examen2EV-2021-master\Examen2EV-ConversorDivisa\Examen2EV-ConversorDivisa\obj\Debug\Examen2EV-ConversorDivisa.csproj.GenerateResource.cache
+C:\Users\Madaria-Campos\Downloads\Examen2EV-2021-master\Examen2EV-2021-master\Examen2EV-ConversorDivisa\Examen2EV-ConversorDivisa\obj\Debug\Examen2EV-ConversorDivisa.csproj.CoreCompileInputs.cache
+C:\Users\Madaria-Campos\Downloads\Examen2EV-2021-master\Examen2EV-2021-master\Examen2EV-ConversorDivisa\Examen2EV-ConversorDivisa\obj\Debug\Examen2EV-ConversorDivisa.exe
+C:\Users\Madaria-Campos\Downloads\Examen2EV-2021-master\Examen2EV-2021-master\Examen2EV-ConversorDivisa\Examen2EV-ConversorDivisa\obj\Debug\Examen2EV-ConversorDivisa.pdb
